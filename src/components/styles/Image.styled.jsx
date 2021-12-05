@@ -8,7 +8,7 @@ export const StyledImage = styled.div`
   justify-content: center;
   align-items: center;
 
-  background: url("./../images/image-equilibrium.jpg");
+  background: url("./images/image-equilibrium.jpg");
   background-size: cover;
 
   border-radius: 10px;
@@ -24,7 +24,7 @@ export const StyledImage = styled.div`
         rgba(24, 211, 217, 0.6),
         rgba(24, 211, 217, 0.6)
       ),
-      url("./../images/image-equilibrium.jpg");
+      url("./images/image-equilibrium.jpg");
     background-size: cover;
     cursor: pointer;
 
